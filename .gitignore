@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 #fichiers individus quelque soit l'extension
 individu_reg.*
+
+#fichier personnel
+*.yaml
